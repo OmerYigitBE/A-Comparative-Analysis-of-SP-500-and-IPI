@@ -1,8 +1,8 @@
-# A Comparative Analysis of S&P 500 and Industrial Production
+# A Comparative Analysis of S&P 500 and IPI
 
-In this project, I analyzed two time series data, one of which comes from S&P 500 returns and one of which comes from Industrial Production Index (IPI).
+In this project, I analyzed two time series data, one of which comes from S&P 500 returns and one of which comes from IPI (Industrial Production Index).
 
-This project is part of my "Advanced Time Series Analysis" course in MSc. Statistics at KU Leuven (December 2019).
+This project is part of my "Advanced Time Series Analysis" course in MSc. Statistics at KU Leuven (December 2019). Codes are provided, and the analysis results with graphs and tables are included in the presentation. Below is a summary of the analysis.
 
 # Table of Contents
 - The Data
